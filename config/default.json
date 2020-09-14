@@ -1,0 +1,6 @@
+{
+  "grant_type": "ig_exchange_token",
+  "client_secret": "b84de7841250454519d7c0620fea0a05",
+  "access_token": "IGQVJWTnpHcERidmlheG9pb3d4MGtfWDJPbUdnall5R0Q3bm1wV0w5bF9YZAjV5WFRwa2RCY0FRZAU9aRWJ1ZA2VoZAElmZA1FoaWpPYWV3N19PbWVFY1NFZAzVqLUdwOERpSXV4bVBwRG5jcWx2M0ZAlTmZAQMgZDZD",
+  "mongoURI": "mongodb+srv://Advertere:Advertere@cluster0.0hwkt.mongodb.net/Advertere?retryWrites=true&w=majority"
+}
