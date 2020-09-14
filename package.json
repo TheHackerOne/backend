@@ -19,6 +19,7 @@
 		"config": "^3.3.1",
 		"express": "^4.17.1",
 		"framer-motion": "^2.5.1",
+		"mongoose": "^5.10.5",
 		"nodemon": "^2.0.4"
 	},
 	"devDependencies": {
@@ -27,7 +28,6 @@
 		"dompurify": "^2.0.12",
 		"jsdom": "^16.4.0",
 		"marked": "^1.1.1",
-		"mongoose": "^5.10.0",
 		"react-glider": "^2.0.1",
 		"slugify": "^1.4.5"
 	}
