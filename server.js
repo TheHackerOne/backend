@@ -33,3 +33,5 @@ if(process.env.NODE_ENV === "production"){
 app.listen(PORT, () => {
   console.log(`Succesfully connected to port ${PORT}`)
 })
+
+// "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
