@@ -7,10 +7,10 @@
 	"description": "AdvertereX",
 	"main": "server.js",
 	"scripts": {
-		"start": "node server.js",
-		"server": "nodemon server",
+		"start": "node index.js",
+		"server": "nodemon index",
 		"client": "npm start --prefix client",
-		"dev": "concurrently \"npm run server\" \"npm run client\""
+		"dev": "concurrently \"npm run index\" \"npm run client\""
 	},
 	"author": "yash chaudhary",
 	"license": "MIT",
