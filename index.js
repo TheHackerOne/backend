@@ -18,7 +18,7 @@ app.use((req, res, next) => {
 
 app.use('/instaFeed', require("./routes/instaAPI"));
 app.use('/blog', require("./routes/blogPost"))
-app.use('/', (req, res, next) => {
+app.get('/', (req, res, next) => {
   res.send("NHI.......LEKIN.....VO.....ME..... ");
 })
 
