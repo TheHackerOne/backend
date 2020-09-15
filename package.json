@@ -5,7 +5,7 @@
 		"node": "12.18.1"
 	},
 	"description": "AdvertereX",
-	"main": "server.js",
+	"main": "index.js",
 	"scripts": {
 		"start": "node index.js",
 		"server": "nodemon index",
